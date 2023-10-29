@@ -26,11 +26,11 @@ go run main.go
 Estrutura do projeto
 main.go: O arquivo principal contendo as funções de CRUD e a lógica do aplicativo.
 
-Considerações
+## Considerações
 O projeto foi desenvolvido para fins didáticos e demonstrativos. Certifique-se de que o MongoDB esteja em execução e acessível na URI mongodb://localhost:27017 antes de executar o aplicativo.
 
-Contribuições
+## Contribuições
 Contribuições são bem-vindas! Abra um issue ou envie um pull request.
 
-Licença
+## Licença
 Este projeto é licenciado sob a licença MIT.
