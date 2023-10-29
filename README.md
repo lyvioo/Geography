@@ -1,0 +1,34 @@
+Aplicativo de Geolocalização em Go e MongoDB
+Este projeto é uma aplicação simples em Go que demonstra como realizar operações CRUD em um banco de dados MongoDB para gerenciar localizações geográficas.
+
+Funcionalidades
+Inserir localizações geográficas no banco de dados.
+Atualizar informações de localizações existentes.
+Buscar localizações pelo nome.
+Criar índices geoespaciais para otimizar consultas.
+Pré-requisitos
+Go (recomendado Go 1.17 ou superior)
+MongoDB (recomendado v5.0 ou superior)
+Como executar
+Clone este repositório:
+bash
+Copy code
+git clone https://github.com/lyvioo/Geography
+Navegue até a pasta do projeto:
+bash
+Copy code
+cd [nome-da-pasta-do-projeto]
+Execute o programa:
+bash
+Copy code
+go run main.go
+Estrutura do projeto
+main.go: O arquivo principal contendo as funções de CRUD e a lógica do aplicativo.
+Considerações
+O projeto foi desenvolvido para fins didáticos e demonstrativos.
+Certifique-se de que o MongoDB esteja em execução e acessível na URI mongodb://localhost:27017 antes de executar o aplicativo.
+Contribuições
+Contribuições são bem-vindas! Abra um issue ou envie um pull request.
+
+Licença
+Este projeto é licenciado sob a licença MIT.
