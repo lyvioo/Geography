@@ -1,6 +1,6 @@
 # Aplicativo de Geolocalização em Go e MongoDB
 
-Este projeto é uma aplicação simples em Go que demonstra como realizar operações CRUD em um banco de dados MongoDB para gerenciar localizações geográficas.
+Este projeto é uma aplicação em Go que demonstra como realizar operações CRUD em um banco de dados MongoDB para gerenciar localizações geográficas.
 
 ## Funcionalidades
 - Inserir localizações geográficas no banco de dados.
